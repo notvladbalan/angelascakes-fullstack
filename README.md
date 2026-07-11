@@ -11,6 +11,26 @@ Webová aplikace pro online objednávání dortů. Zákazníci mohou procházet 
 
 ---
 
+## Ukázka aplikace
+
+### Uživatelský katalog
+
+![Uživatelský katalog](readme-assets/katalog.png)
+
+### Košík
+
+![Košík](readme-assets/cart.png)
+
+### Aktivní objednávky
+
+![Aktivní objednávky](readme-assets/orders.png)
+
+### Administrace dortů
+
+![Administrace dortů](readme-assets/admin_cakes.png)
+
+---
+
 ## Spuštění
 
 ### Backend
