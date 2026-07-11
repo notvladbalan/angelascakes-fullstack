@@ -15,7 +15,7 @@ Webová aplikace pro online objednávání dortů. Zákazníci mohou procházet 
 
 ### Uživatelský katalog
 
-![Uživatelský katalog](readme-assets/katalog.png)
+![Uživatelský katalog](readme-assets/catalog.png)
 
 ### Košík
 
